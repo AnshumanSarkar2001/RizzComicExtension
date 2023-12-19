@@ -1,0 +1,52 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="eu.kanade.tachiyomi.extension" >
+4
+5    <uses-sdk android:minSdkVersion="21" />
+5-->E:\Android Studio\tachiyomi-extensions\core\AndroidManifest.xml
+6
+7    <uses-feature android:name="tachiyomi.extension" />
+7-->E:\Android Studio\tachiyomi-extensions\core\AndroidManifest.xml:4:5-56
+7-->E:\Android Studio\tachiyomi-extensions\core\AndroidManifest.xml:4:19-53
+8
+9    <application
+9-->E:\Android Studio\tachiyomi-extensions\core\AndroidManifest.xml:6:5-14:19
+10        android:allowBackup="false"
+10-->E:\Android Studio\tachiyomi-extensions\core\AndroidManifest.xml:6:53-80
+11        android:icon="@mipmap/ic_launcher"
+11-->E:\Android Studio\tachiyomi-extensions\core\AndroidManifest.xml:6:18-52
+12        android:label="${appName}" >
+12-->E:\Android Studio\tachiyomi-extensions\core\AndroidManifest.xml:6:81-107
+13        <meta-data
+13-->E:\Android Studio\tachiyomi-extensions\core\AndroidManifest.xml:8:9-91
+14            android:name="tachiyomi.extension.class"
+14-->E:\Android Studio\tachiyomi-extensions\core\AndroidManifest.xml:8:20-60
+15            android:value="${extClass}" />
+15-->E:\Android Studio\tachiyomi-extensions\core\AndroidManifest.xml:8:61-88
+16        <meta-data
+16-->E:\Android Studio\tachiyomi-extensions\core\AndroidManifest.xml:9:9-95
+17            android:name="tachiyomi.extension.factory"
+17-->E:\Android Studio\tachiyomi-extensions\core\AndroidManifest.xml:9:20-62
+18            android:value="${extFactory}" />
+18-->E:\Android Studio\tachiyomi-extensions\core\AndroidManifest.xml:9:63-92
+19        <meta-data
+19-->E:\Android Studio\tachiyomi-extensions\core\AndroidManifest.xml:10:9-86
+20            android:name="tachiyomi.extension.nsfw"
+20-->E:\Android Studio\tachiyomi-extensions\core\AndroidManifest.xml:10:20-59
+21            android:value="${nsfw}" />
+21-->E:\Android Studio\tachiyomi-extensions\core\AndroidManifest.xml:10:60-83
+22        <meta-data
+22-->E:\Android Studio\tachiyomi-extensions\core\AndroidManifest.xml:11:9-96
+23            android:name="tachiyomi.extension.hasReadme"
+23-->E:\Android Studio\tachiyomi-extensions\core\AndroidManifest.xml:11:20-64
+24            android:value="${hasReadme}" />
+24-->E:\Android Studio\tachiyomi-extensions\core\AndroidManifest.xml:11:65-93
+25        <meta-data
+25-->E:\Android Studio\tachiyomi-extensions\core\AndroidManifest.xml:12:9-102
+26            android:name="tachiyomi.extension.hasChangelog"
+26-->E:\Android Studio\tachiyomi-extensions\core\AndroidManifest.xml:12:20-67
+27            android:value="${hasChangelog}" />
+27-->E:\Android Studio\tachiyomi-extensions\core\AndroidManifest.xml:12:68-99
+28    </application>
+29
+30</manifest>

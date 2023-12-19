@@ -1,0 +1,9 @@
+eu.kanade.tachiyomi.extension.rizzcomic-packaged_res-0 E:\Android Studio\tachiyomi-extensions\core\build\intermediates\packaged_res\debug
+eu.kanade.tachiyomi.extension.rizzcomic-packaged_res-1 E:\Android Studio\tachiyomi-extensions\lib\cryptoaes\build\intermediates\packaged_res\debug
+eu.kanade.tachiyomi.extension.rizzcomic-packaged_res-2 E:\Android Studio\tachiyomi-extensions\lib\randomua\build\intermediates\packaged_res\debug
+eu.kanade.tachiyomi.extension.rizzcomic-pngs-3 E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\build\generated\res\pngs\debug
+eu.kanade.tachiyomi.extension.rizzcomic-mergeDebugResources-4 E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+eu.kanade.tachiyomi.extension.rizzcomic-mergeDebugResources-5 E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+eu.kanade.tachiyomi.extension.rizzcomic-merged_res-6 E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\build\intermediates\merged_res\debug
+eu.kanade.tachiyomi.extension.rizzcomic-rizzcomic-7 E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\res
+eu.kanade.tachiyomi.extension.rizzcomic-debug-8 E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\src\debug\res

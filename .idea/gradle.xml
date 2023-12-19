@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT">
+            <builds>
+              <build path="$PROJECT_DIR$/buildSrc" name="buildSrc">
+                <projects>
+                  <project path="$PROJECT_DIR$/buildSrc" />
+                </projects>
+              </build>
+            </builds>
+          </compositeBuild>
+        </compositeConfiguration>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#GRADLE_LOCAL_JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/buildSrc" />
+            <option value="$PROJECT_DIR$/core" />
+            <option value="$PROJECT_DIR$/extensions" />
+            <option value="$PROJECT_DIR$/extensions/individual" />
+            <option value="$PROJECT_DIR$/extensions/individual/en" />
+            <option value="$PROJECT_DIR$/lib/cryptoaes" />
+            <option value="$PROJECT_DIR$/lib/dataimage" />
+            <option value="$PROJECT_DIR$/lib/i18n" />
+            <option value="$PROJECT_DIR$/lib/randomua" />
+            <option value="$PROJECT_DIR$/lib/synchrony" />
+            <option value="$PROJECT_DIR$/lib/textinterceptor" />
+            <option value="$PROJECT_DIR$/lib/unpacker" />
+            <option value="$PROJECT_DIR$/multisrc" />
+            <option value="$PROJECT_DIR$/src/en/rizzcomic" />
+          </set>
+        </option>
+        <option name="resolveExternalAnnotations" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

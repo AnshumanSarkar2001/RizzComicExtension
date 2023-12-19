@@ -1,0 +1,89 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="eu.kanade.tachiyomi.extension.en.rizzcomic"
+4    android:versionCode="1"
+5    android:versionName="1.4.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="34" />
+10
+11    <uses-feature android:name="tachiyomi.extension" />
+11-->[:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-56
+11-->[:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:19-53
+12
+13    <application
+13-->E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:4:5-21:19
+14        android:allowBackup="false"
+14-->[:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-36
+15        android:debuggable="true"
+16        android:icon="@mipmap/ic_launcher"
+16-->[:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:9-43
+17        android:label="Tachiyomi: Rizzcomic" >
+17-->[:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:9-35
+18        <activity
+18-->E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:5:9-20:20
+19            android:name="eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesiaUrlActivity"
+19-->E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:6:13-95
+20            android:excludeFromRecents="true"
+20-->E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:7:13-46
+21            android:exported="true"
+21-->E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:8:13-36
+22            android:theme="@android:style/Theme.NoDisplay" >
+22-->E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:9:13-59
+23            <intent-filter>
+23-->E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:10:13-19:29
+24                <action android:name="android.intent.action.VIEW" />
+24-->E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:11:17-69
+24-->E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:11:25-66
+25
+26                <category android:name="android.intent.category.DEFAULT" />
+26-->E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:13:17-76
+26-->E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:13:27-73
+27                <category android:name="android.intent.category.BROWSABLE" />
+27-->E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:14:17-78
+27-->E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:14:27-75
+28
+29                <data
+30                    android:host="rizzcomic.com"
+30-->E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:16:21-49
+31                    android:pathPattern="/.*/..*"
+31-->E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:17:21-50
+32                    android:scheme="https" />
+32-->E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:18:21-53
+33            </intent-filter>
+34        </activity>
+35
+36        <meta-data
+36-->[:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-15:43
+37            android:name="tachiyomi.extension.class"
+37-->[:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-53
+38            android:value=".Rizzcomic" />
+38-->[:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-40
+39        <meta-data
+39-->[:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-18:45
+40            android:name="tachiyomi.extension.factory"
+40-->[:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-55
+41            android:value="mangathemesia" />
+41-->[:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-42
+42        <meta-data
+42-->[:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:9-21:39
+43            android:name="tachiyomi.extension.nsfw"
+43-->[:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-52
+44            android:value="0" />
+44-->[:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:13-36
+45        <meta-data
+45-->[:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:9-24:44
+46            android:name="tachiyomi.extension.hasReadme"
+46-->[:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-57
+47            android:value="0" />
+47-->[:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-41
+48        <meta-data
+48-->[:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:9-27:47
+49            android:name="tachiyomi.extension.hasChangelog"
+49-->[:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-60
+50            android:value="0" />
+50-->[:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-44
+51    </application>
+52
+53</manifest>

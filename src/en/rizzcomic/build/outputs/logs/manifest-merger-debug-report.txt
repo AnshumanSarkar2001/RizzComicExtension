@@ -1,0 +1,128 @@
+-- Merging decision tree log ---
+data
+INJECTED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:15:17-18:56
+INJECTED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:15:17-18:56
+	android:host
+		INJECTED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml
+		ADDED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:16:21-49
+	android:scheme
+		INJECTED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml
+		ADDED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:18:21-53
+	android:pathPattern
+		ADDED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:17:21-50
+manifest
+ADDED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:2:1-22:12
+MERGED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:2:1-22:12
+MERGED from [:lib-cryptoaes] E:\Android Studio\tachiyomi-extensions\lib\cryptoaes\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:lib-randomua] E:\Android Studio\tachiyomi-extensions\lib\randomua\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:2:1-30:12
+INJECTED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:2:1-22:12
+INJECTED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:2:1-22:12
+	package
+		INJECTED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml
+		ADDED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:2:1-22:12
+		INJECTED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml
+		ADDED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:2:1-22:12
+		INJECTED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml
+		ADDED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:2:1-22:12
+		INJECTED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:2:11-69
+application
+ADDED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:4:5-21:19
+MERGED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:4:5-21:19
+MERGED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:4:5-21:19
+MERGED from [:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-28:19
+MERGED from [:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:9:5-28:19
+	android:label
+		ADDED from [:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:12:9-35
+	android:icon
+		ADDED from [:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from [:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:10:9-36
+activity#eu.kanade.tachiyomi.multisrc.mangathemesia.MangaThemesiaUrlActivity
+ADDED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:5:9-20:20
+MERGED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:5:9-20:20
+MERGED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:5:9-20:20
+	android:excludeFromRecents
+		ADDED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:7:13-46
+	android:exported
+		ADDED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:8:13-36
+	android:theme
+		ADDED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:9:13-59
+	android:name
+		ADDED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:6:13-95
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:rizzcomic.com+data:pathPattern:/.*/..*+data:scheme:https
+ADDED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:10:13-19:29
+action#android.intent.action.VIEW
+ADDED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:11:17-69
+	android:name
+		ADDED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:11:25-66
+category#android.intent.category.DEFAULT
+ADDED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:13:17-76
+	android:name
+		ADDED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:13:27-73
+category#android.intent.category.BROWSABLE
+ADDED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:14:17-78
+	android:name
+		ADDED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml:14:27-75
+uses-sdk
+INJECTED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml
+INJECTED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml
+MERGED from [:lib-cryptoaes] E:\Android Studio\tachiyomi-extensions\lib\cryptoaes\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:lib-cryptoaes] E:\Android Studio\tachiyomi-extensions\lib\cryptoaes\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:lib-randomua] E:\Android Studio\tachiyomi-extensions\lib\randomua\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:lib-randomua] E:\Android Studio\tachiyomi-extensions\lib\randomua\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+MERGED from [:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:5:5-44
+INJECTED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml
+INJECTED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml
+		INJECTED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml
+		INJECTED from E:\Android Studio\tachiyomi-extensions\src\en\rizzcomic\AndroidManifest.xml
+uses-feature#tachiyomi.extension
+ADDED from [:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:5-56
+	android:name
+		ADDED from [:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:7:19-53
+meta-data#tachiyomi.extension.class
+ADDED from [:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:13:9-15:43
+	android:value
+		ADDED from [:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:15:13-40
+	android:name
+		ADDED from [:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:14:13-53
+meta-data#tachiyomi.extension.factory
+ADDED from [:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:16:9-18:45
+	android:value
+		ADDED from [:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:18:13-42
+	android:name
+		ADDED from [:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:17:13-55
+meta-data#tachiyomi.extension.nsfw
+ADDED from [:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:19:9-21:39
+	android:value
+		ADDED from [:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:21:13-36
+	android:name
+		ADDED from [:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:20:13-52
+meta-data#tachiyomi.extension.hasReadme
+ADDED from [:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:22:9-24:44
+	android:value
+		ADDED from [:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:24:13-41
+	android:name
+		ADDED from [:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:23:13-57
+meta-data#tachiyomi.extension.hasChangelog
+ADDED from [:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [:core] E:\Android Studio\tachiyomi-extensions\core\build\intermediates\merged_manifest\debug\AndroidManifest.xml:26:13-60

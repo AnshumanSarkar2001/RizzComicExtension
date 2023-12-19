@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="extensions.individual.all.akuma">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.batoto">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.buondua">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.comicfury">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.comickfun">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.comico">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.commitstrip">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.cubari">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.danbooru">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.dragonballmultiverse">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.ehentai">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.everiaclub">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.freleinbooks">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.hennojin">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.holonometria">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.imhentai">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.izneo">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.junmeitu">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.kavita">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.komga">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.lanraragi">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.leagueoflegends">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.littlegarden">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.luscious">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.mangadex">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.mangapark">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.mangaplus">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.mangapluscreators">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.mangatoon">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.mangaup">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.mango">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.meituatop">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.myreadingmanga">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.netcomics">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.nhentai">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.ninemanga">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.ninenineninehentai">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.noisemanga">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.novelcool">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.peppercarrot">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.photos18">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.pixiv">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.projectsuki">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.sandraandwoo">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.simplycosplay">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.simplyhentai">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.tachidesk">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.taddyink">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.tappytoon">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.thelibraryofohara">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.toomics">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.vinnieVeritas">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.xinmeitulu">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.xkcd">
+        <State />
+      </entry>
+      <entry key="extensions.individual.all.yaoimangaonline">
+        <State />
+      </entry>
+      <entry key="extensions.individual.ar.gmanga">
+        <State />
+      </entry>
+      <entry key="extensions.individual.ar.mangaae">
+        <State />
+      </entry>
+      <entry key="extensions.individual.ar.remanga">
+        <State />
+      </entry>
+      <entry key="extensions.individual.ar.shqqaa">
+        <State />
+      </entry>
+      <entry key="extensions.individual.ar.teamx">
+        <State />
+      </entry>
+      <entry key="extensions.individual.de.mangatube">
+        <State />
+      </entry>
+      <entry key="extensions.individual.de.wiemanga">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.MangaRok">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.allanime">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.apairof2">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.aurora">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.buttsmithy">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.clonemanga">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.collectedcurios">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.comicastle">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.comicextra">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.darklegacycomics">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.digitalcomicmuseum">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.disasterscans">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.doujins">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.dynasty">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.earlymanga">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.eggporncomics">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.elanschool">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.existentialcomics">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.explosm">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.grrlpower">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.gunnerkriggcourt">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.gwtb">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.hbrowse">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.hentai2read">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.hentaidexy">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.hentaifox">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.hentaihere">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.hiveworks">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.honkaiimpact3">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.irovedout">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.keenspot">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.killsixbilliondemons">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.kouhaiwork">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.latisbooks">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.lemonfont">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.likemanga">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.loadingartist">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.madokami">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.manga1s">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.mangademon">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.mangadoom">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.mangafox">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.mangafreak">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.mangago">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.mangahasu">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.mangahere">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.mangajar">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.mangakatana">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.mangamiso">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.mangapill">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.mangaplex">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.mangarawclub">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.mangasail">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.mangatown">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.manta">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.megatokyo">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.multporn">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.myhentaicomics">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.myhentaigallery">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.nineanime">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.ninehentai">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.nuxscans">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.oglaf">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.oots">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.oppaistream">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.patchfriday">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.purplecress">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.pururin">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.questionablecontent">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.rainofsnow">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.randowiz">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.rawmanga">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.readcomiconline">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.readm">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.readmangatoday">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.reallifecomics">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.rizzcomic">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.rmanga">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.schlockmercenary">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.silentmangaaudition">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.solarandsundry">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.swordscomic">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.tapastic">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.tcbscans">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.theduckwebcomics">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.thepropertyofhate">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.tsumino">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.vgperson">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.vizshonenjump">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.voyceme">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.vyvymanga">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.warforrayuba">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.webcomics">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.webnovel">
+        <State />
+      </entry>
+      <entry key="extensions.individual.en.zeroscans">
+        <State />
+      </entry>
+      <entry key="extensions.individual.es.brakeout">
+        <State />
+      </entry>
+      <entry key="extensions.individual.es.cerberusseries">
+        <State />
+      </entry>
+      <entry key="extensions.individual.es.heavenmanga">
+        <State />
+      </entry>
+      <entry key="extensions.individual.es.ikuhentai">
+        <State />
+      </entry>
+      <entry key="extensions.individual.es.inmanga">
+        <State />
+      </entry>
+      <entry key="extensions.individual.es.kingsofdarkness">
+        <State />
+      </entry>
+      <entry key="extensions.individual.es.kumanga">
+        <State />
+      </entry>
+      <entry key="extensions.individual.es.lectormanga">
+        <State />
+      </entry>
+      <entry key="extensions.individual.es.leermangasxyz">
+        <State />
+      </entry>
+      <entry key="extensions.individual.es.mangamx">
+        <State />
+      </entry>
+      <entry key="extensions.individual.es.manhwasnet">
+        <State />
+      </entry>
+      <entry key="extensions.individual.es.olympusscanlation">
+        <State />
+      </entry>
+      <entry key="extensions.individual.es.ravenmanga">
+        <State />
+      </entry>
+      <entry key="extensions.individual.es.templescanesp">
+        <State />
+      </entry>
+      <entry key="extensions.individual.es.tmohentai">
+        <State />
+      </entry>
+      <entry key="extensions.individual.es.tumangaonline">
+        <State />
+      </entry>
+      <entry key="extensions.individual.es.vcpvmp">
+        <State />
+      </entry>
+      <entry key="extensions.individual.fr.animesama">
+        <State />
+      </entry>
+      <entry key="extensions.individual.fr.aralosbd">
+        <State />
+      </entry>
+      <entry key="extensions.individual.fr.fmteam">
+        <State />
+      </entry>
+      <entry key="extensions.individual.fr.furyosquad">
+        <State />
+      </entry>
+      <entry key="extensions.individual.fr.japanread">
+        <State />
+      </entry>
+      <entry key="extensions.individual.fr.lirescan">
+        <State />
+      </entry>
+      <entry key="extensions.individual.fr.mangakawaii">
+        <State />
+      </entry>
+      <entry key="extensions.individual.fr.scanmanga">
+        <State />
+      </entry>
+      <entry key="extensions.individual.fr.scantradunion">
+        <State />
+      </entry>
+      <entry key="extensions.individual.id.KomikFan">
+        <State />
+      </entry>
+      <entry key="extensions.individual.id.bacakomik">
+        <State />
+      </entry>
+      <entry key="extensions.individual.id.comicfx">
+        <State />
+      </entry>
+      <entry key="extensions.individual.id.doujindesu">
+        <State />
+      </entry>
+      <entry key="extensions.individual.id.komikindoid">
+        <State />
+      </entry>
+      <entry key="extensions.individual.id.komiku">
+        <State />
+      </entry>
+      <entry key="extensions.individual.id.mangaku">
+        <State />
+      </entry>
+      <entry key="extensions.individual.id.mangalay">
+        <State />
+      </entry>
+      <entry key="extensions.individual.id.onepieceberwarna">
+        <State />
+      </entry>
+      <entry key="extensions.individual.it.animegdrclub">
+        <State />
+      </entry>
+      <entry key="extensions.individual.it.demoneceleste">
+        <State />
+      </entry>
+      <entry key="extensions.individual.it.digitalteam">
+        <State />
+      </entry>
+      <entry key="extensions.individual.it.hentaifantasy">
+        <State />
+      </entry>
+      <entry key="extensions.individual.it.novelleleggere">
+        <State />
+      </entry>
+      <entry key="extensions.individual.it.zeurelscan">
+        <State />
+      </entry>
+      <entry key="extensions.individual.ja.comicnewtype">
+        <State />
+      </entry>
+      <entry key="extensions.individual.ja.ganma">
+        <State />
+      </entry>
+      <entry key="extensions.individual.ja.mangacross">
+        <State />
+      </entry>
+      <entry key="extensions.individual.ja.nicovideoseiga">
+        <State />
+      </entry>
+      <entry key="extensions.individual.ja.nikkangecchan">
+        <State />
+      </entry>
+      <entry key="extensions.individual.ja.rawdevart">
+        <State />
+      </entry>
+      <entry key="extensions.individual.ja.senmanga">
+        <State />
+      </entry>
+      <entry key="extensions.individual.ja.twi4">
+        <State />
+      </entry>
+      <entry key="extensions.individual.ko.jmana">
+        <State />
+      </entry>
+      <entry key="extensions.individual.ko.navercomic">
+        <State />
+      </entry>
+      <entry key="extensions.individual.ko.newtoki">
+        <State />
+      </entry>
+      <entry key="extensions.individual.ko.toonkor">
+        <State />
+      </entry>
+      <entry key="extensions.individual.pt.argosscan">
+        <State />
+      </entry>
+      <entry key="extensions.individual.pt.bruttal">
+        <State />
+      </entry>
+      <entry key="extensions.individual.pt.hqnow">
+        <State />
+      </entry>
+      <entry key="extensions.individual.pt.lermanga">
+        <State />
+      </entry>
+      <entry key="extensions.individual.pt.muitohentai">
+        <State />
+      </entry>
+      <entry key="extensions.individual.pt.mundohentai">
+        <State />
+      </entry>
+      <entry key="extensions.individual.pt.opex">
+        <State />
+      </entry>
+      <entry key="extensions.individual.pt.saikaiscan">
+        <State />
+      </entry>
+      <entry key="extensions.individual.pt.taosect">
+        <State />
+      </entry>
+      <entry key="extensions.individual.pt.yomumangas">
+        <State />
+      </entry>
+      <entry key="extensions.individual.pt.yugenmangas">
+        <State />
+      </entry>
+      <entry key="extensions.individual.ru.acomics">
+        <State />
+      </entry>
+      <entry key="extensions.individual.ru.comx">
+        <State />
+      </entry>
+      <entry key="extensions.individual.ru.desu">
+        <State />
+      </entry>
+      <entry key="extensions.individual.ru.mangabook">
+        <State />
+      </entry>
+      <entry key="extensions.individual.ru.mangaclub">
+        <State />
+      </entry>
+      <entry key="extensions.individual.ru.mangahub">
+        <State />
+      </entry>
+      <entry key="extensions.individual.ru.mangapoisk">
+        <State />
+      </entry>
+      <entry key="extensions.individual.ru.newbie">
+        <State />
+      </entry>
+      <entry key="extensions.individual.ru.nudemoon">
+        <State />
+      </entry>
+      <entry key="extensions.individual.ru.remanga">
+        <State />
+      </entry>
+      <entry key="extensions.individual.ru.unicomics">
+        <State />
+      </entry>
+      <entry key="extensions.individual.ru.waymanga">
+        <State />
+      </entry>
+      <entry key="extensions.individual.ru.yagamiproject">
+        <State />
+      </entry>
+      <entry key="extensions.individual.th.mikudoujin">
+        <State />
+      </entry>
+      <entry key="extensions.individual.th.nekopost">
+        <State />
+      </entry>
+      <entry key="extensions.individual.th.niceoppai">
+        <State />
+      </entry>
+      <entry key="extensions.individual.tr.MangaDenizi">
+        <State />
+      </entry>
+      <entry key="extensions.individual.tr.mangaship">
+        <State />
+      </entry>
+      <entry key="extensions.individual.tr.serimanga">
+        <State />
+      </entry>
+      <entry key="extensions.individual.uk.honeymanga">
+        <State />
+      </entry>
+      <entry key="extensions.individual.uk.mangainua">
+        <State />
+      </entry>
+      <entry key="extensions.individual.vi.blogtruyen">
+        <State />
+      </entry>
+      <entry key="extensions.individual.vi.hentaivn">
+        <State />
+      </entry>
+      <entry key="extensions.individual.vi.lxhentai">
+        <State />
+      </entry>
+      <entry key="extensions.individual.vi.mangaxy">
+        <State />
+      </entry>
+      <entry key="extensions.individual.vi.truyengihot">
+        <State />
+      </entry>
+      <entry key="extensions.individual.vi.truyenqq">
+        <State />
+      </entry>
+      <entry key="extensions.individual.vi.yurineko">
+        <State />
+      </entry>
+      <entry key="extensions.individual.zh.baimangu">
+        <State />
+      </entry>
+      <entry key="extensions.individual.zh.baozimanhua">
+        <State />
+      </entry>
+      <entry key="extensions.individual.zh.baozimhorg">
+        <State />
+      </entry>
+      <entry key="extensions.individual.zh.bh3">
+        <State />
+      </entry>
+      <entry key="extensions.individual.zh.boylove">
+        <State />
+      </entry>
+      <entry key="extensions.individual.zh.comicabc">
+        <State />
+      </entry>
+      <entry key="extensions.individual.zh.dmzj">
+        <State />
+      </entry>
+      <entry key="extensions.individual.zh.happymh">
+        <State />
+      </entry>
+      <entry key="extensions.individual.zh.iqiyi">
+        <State />
+      </entry>
+      <entry key="extensions.individual.zh.jinmantiantang">
+        <State />
+      </entry>
+      <entry key="extensions.individual.zh.kuaikanmanhua">
+        <State />
+      </entry>
+      <entry key="extensions.individual.zh.mangabz">
+        <State />
+      </entry>
+      <entry key="extensions.individual.zh.manhuadb">
+        <State />
+      </entry>
+      <entry key="extensions.individual.zh.manhuagui">
+        <State />
+      </entry>
+      <entry key="extensions.individual.zh.manhuaren">
+        <State />
+      </entry>
+      <entry key="extensions.individual.zh.manwa">
+        <State />
+      </entry>
+      <entry key="extensions.individual.zh.noyacg">
+        <State />
+      </entry>
+      <entry key="extensions.individual.zh.picacomic">
+        <State />
+      </entry>
+      <entry key="extensions.individual.zh.roumanwu">
+        <State />
+      </entry>
+      <entry key="extensions.individual.zh.sixmh">
+        <State />
+      </entry>
+      <entry key="extensions.individual.zh.tencentcomics">
+        <State />
+      </entry>
+      <entry key="extensions.individual.zh.terrahistoricus">
+        <State />
+      </entry>
+      <entry key="extensions.individual.zh.vomic">
+        <State />
+      </entry>
+      <entry key="extensions.individual.zh.wnacg">
+        <State />
+      </entry>
+      <entry key="extensions.individual.zh.yidan">
+        <State />
+      </entry>
+      <entry key="extensions.individual.zh.zerobyw">
+        <State />
+      </entry>
+    </value>
+  </component>
+</project>
